@@ -5,6 +5,7 @@ import '../services/todoCubit/todo_cubit.dart';
 
 class buildTaskItem extends StatelessWidget {
   Map ? model;
+  String ?x;
   String status1 ;
   String status2 ;
   IconData icon1;
